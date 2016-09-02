@@ -1,0 +1,26 @@
+                            BlackHole Help
+                            --------------
+
+DESCRIPTION:          This program can be used to mail files by dragging them into
+                      the black frame in the application.
+                      The method used is the following:
+                      The program uses Mapisend.exe to create a message in the Outlook
+                      Outbox. Outlook will send the message out.
+                      The ClickYes application can be set up optionally to answer the
+                      question that is raised by Outlook when an application other
+                      then Outlook wants to send mail.
+
+--------------------------------------------------------------------------------------
+
+HELP:
+
+Help:                 Shows this help page.
+Email To:             The email address the mails are sent to.
+Email From:           The mail address used as sender address. Outlook will change this
+                      if it differs from your Outlook mail address.
+Mail Subject:         The text used as mail subject.
+Save Settings:        Writes the settings to the BlackHole.ini file.
+Status:               Shows status messages.
+
+--------------------------------------------------------------------------------------
+
